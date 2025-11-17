@@ -18,7 +18,7 @@ int main() {
 		break;
 		}
 	case(2): {
-
+		filemake();
 		break;
 	}
 	case(0): {
